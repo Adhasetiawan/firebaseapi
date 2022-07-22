@@ -1,0 +1,22 @@
+{
+  "name": "node_firebase",
+  "version": "1.0.0",
+  "description": "For testing only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adhasetiawan/firebaseapi.git"
+  },
+  "keywords": [
+    "nodefirebase"
+  ],
+  "author": "Adha setiwiyana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adhasetiawan/firebaseapi/issues"
+  },
+  "homepage": "https://github.com/Adhasetiawan/firebaseapi#readme"
+}
